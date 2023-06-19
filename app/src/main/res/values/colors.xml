@@ -2,6 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="nombre">#0E41ED</color>
-    <color name="matriula">#28B9D9</color>
+    <color name="nombre">#070707</color>
+    <color name="matriula">#7228D9</color>
 </resources>
