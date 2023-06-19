@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         srcLista = findViewById(R.id.menu_search); //Me da una amsiedad ver esto en rojo no puedo AAAAAAAAAA
 //No estoy seguro pero bueno
         ArrayList<ItemData> list = new ArrayList<>();
-        list.add(new ItemData(getString(R.string.itemEstefano), getString(R.string.msgEstefano), R.drawable.img2019030344));
+        list.add(new ItemData(getString(R.string.itemEstefano), getString(R.string.msgEstefano), R.drawable.2019030344));
         list.add(new ItemData(getString(R.string.itemCarlosAlberto), getString(R.string.msgCarlosAlberto), R.drawable.img2020030174));
         list.add(new ItemData(getString(R.string.itemMarcoAntonio), getString(R.string.msgMarcoAntonioAlarid), R.drawable.img2020030176));
         list.add(new ItemData(getString(R.string.itemJoshuaDaniel), getString(R.string.msgJoshuaDaniel), R.drawable.img2020030181));
