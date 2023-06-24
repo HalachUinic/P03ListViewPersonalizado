@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+
         ArrayList<AlumnoItem> list = new ArrayList<>(Arrays.asList(
                 new AlumnoItem(getString(R.string.itemEstefano), getString(R.string.Estefano), R.drawable.ft2019030344),
                 new AlumnoItem(getString(R.string.itemCarlosAlberto), getString(R.string.CarlosAlberto), R.drawable.ft2020030174),
