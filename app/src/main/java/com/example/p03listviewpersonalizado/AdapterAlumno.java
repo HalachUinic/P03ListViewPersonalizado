@@ -31,6 +31,7 @@ public class AdapterAlumno extends ArrayAdapter<AlumnoItem> implements Filterabl
         this.filter = new ItemFilter();
     }
 
+
     @Override
     public int getCount() {
         return filteredList.size();
